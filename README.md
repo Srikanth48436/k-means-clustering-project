@@ -24,4 +24,4 @@ Python | Pandas | NumPy | Matplotlib | Seaborn | Scikit-learn
 💡 Key Learning:
 K-Means is simple yet powerful for segmentation tasks, but choosing the right K value and handling outliers & scaling plays a crucial role in performance.
 📌 This project helped me strengthen my understanding of unsupervised learning, clustering techniques, and real-world data analysis.
-#MachineLearning #DataScience #KMeans #Clustering #Python #DataAnalytics #AI #LearningJourney #OpenToWork #Projects
+#MachineLearning #DataScience #KMeans #Clustering #Python #DataAnalytics #AI #LearningJourney #Projects
